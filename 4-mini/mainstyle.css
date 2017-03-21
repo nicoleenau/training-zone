@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{ 
+	 background-color: linear-gradient(red, yellow);
+}
+
+#nav{
+
+    list-style-type: none;
+    background-color: #D4F7FA;
+    float: center;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+h1 {
+	align-content: center;
+	color: midnightblue;
+}
+
+p {
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+}
+
+#announcement  {
+    border-radius: 25px;
+    padding: 10px;   
+	background: #FFF7DB;
+}
+
+
+#footer {
+	align-content: center;
+	border-radius: 25px;
+    padding: 10px;   
+	background: #D3D3D3
+}
